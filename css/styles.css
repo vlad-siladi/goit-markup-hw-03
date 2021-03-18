@@ -124,8 +124,8 @@ img {
 }
 
 .title {
-  margin-top: 0;
-  margin-bottom: 30px;
+  width: 696px;
+  margin: 0 auto;
 
   color: var(--primary-white-colour);
   font-weight: 900;
@@ -137,6 +137,7 @@ img {
 
 .button {
   border: none;
+  margin-top: 30px;
 
   background-color: var(--accent-text-colour);
   color: var(--primary-white-colour);
